@@ -56,4 +56,9 @@ public class SecondTest {
                 () -> assertEquals(integerList.get(2), 15)
         );
     }
+
+    @Test
+    void githubTest(){
+
+    }
 }
